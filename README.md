@@ -1,1 +1,2 @@
 ### TFOD SETUP
+TFOD COLAB GPU Setup  and LOCAL CPU Setup
